@@ -1,12 +1,13 @@
 # Repositorio - ayiyiyiyi
 # 🚀 Nombre del Proyecto
-Proyecto Repositorios
+Konyu Motors
 ## 👥 Equipo
 - Juan Manuel
+- Jose Manuel
 
 ## ️ Tecnologías
-- **Frontend:** React / Vue / HTML
-- **Backend:** Django / Laravel / Node.js
-- **Base de datos:** MySQL / PostgreSQL
+- Frontend: React / HTML / CSS
+- Backend: Node.js
+- Base de datos: MySQL
 ## 📌 Estado actual
 En construcción 🚧
